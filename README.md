@@ -33,11 +33,13 @@ This assignment is about to front-end application based on API using ReactJS.
 
 # WORK FLOW
 - User Sign in using
-
+  
+  POSTMAN workspace : [1]: [POSTMAN collection](https://www.getpostman.com/collections/e8f9e0fe457f0c4dd343)
 
   -- endpoint `POST` **https://dz-dev-discord-assigment1-api.herokuapp.com/login**
   
-  
+  `Content-type` JSON  
+
   "email": "johndoe66@gmail.com"
   
   "password": "somePassword"
