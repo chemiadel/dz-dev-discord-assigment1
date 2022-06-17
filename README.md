@@ -7,18 +7,28 @@ This assignment is about to front-end application based on API using ReactJS.
 # APPLICATION ARCHITECTURE
 
 - Login page
+
+
 ![login](https://i.imgur.com/J9Vp9Qn.png)
 
 - Main page
+
+
 ![Imgur](https://i.imgur.com/gWhPbVY.png)
 
 - Add Page
+
+
 ![Imgur](https://i.imgur.com/SXpZ6Dx.png)
 
 - Edit Page
+
+
 ![Imgur](https://i.imgur.com/tJqZsXK.png)
 
 - Delete Modal
+
+
 ![Imgur](https://i.imgur.com/jXANcUV.png)
 
 # WORK FLOW
