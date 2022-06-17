@@ -47,6 +47,7 @@ This assignment is about to front-end application based on API using ReactJS.
  
 - Getting token from Login step Fetch data from API then store in state in Redux specifially or React Context
 
+  note: add token on the BEARER headers
 
   -- endpoint `GET` **https://dz-dev-discord-assigment1-api.herokuapp.com/data**
   
